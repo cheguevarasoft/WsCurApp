@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WsCurApp", "WsCurApp\WsCurApp.csproj", "{345BCB33-D92E-42F9-9EC7-6F86F378EEEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345BCB33-D92E-42F9-9EC7-6F86F378EEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345BCB33-D92E-42F9-9EC7-6F86F378EEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345BCB33-D92E-42F9-9EC7-6F86F378EEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345BCB33-D92E-42F9-9EC7-6F86F378EEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {540FAECE-12DB-4CA7-B99B-FEA0CC9D92FE}
+	EndGlobalSection
+EndGlobal
